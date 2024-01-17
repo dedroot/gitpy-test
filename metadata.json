@@ -1,0 +1,19 @@
+{
+	"name":
+		"GitPy",
+
+	"version":
+		"0.1.0",
+
+	"authors": [
+		"Thomas Pellissier"
+	],		
+
+	"author_email": [
+		"thomas.pellissier.pro@proton.me"
+	],
+
+	"twitter":
+		"https://twitter.com/dedroot",
+
+}
